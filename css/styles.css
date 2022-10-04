@@ -1,13 +1,5 @@
-.box{
-    border:  1px solid black;
-    min-height: 500px;
-}
-#box-1{
-    background-color: yellow;
-    color: darkblue;
-}
 p{
-    color: blue;
+    color: green;
 }
 @media screen and (max-width:  500px) {
     p{
