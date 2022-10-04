@@ -1,3 +1,5 @@
 $(document).ready(function() {
-	console.log('jquery loaded');
+	$('#get-started-button').on('click', function() {
+		$('#hidden-text').show();
+	});
 });
